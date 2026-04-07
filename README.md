@@ -122,6 +122,14 @@ The project was built over several days of collaboration, including planning, de
 
 Each team member contributed to different aspects of the application, including frontend development, backend functionality, and overall project structure.
 
+## Development Notes
+
+During development, we experimented with deploying the application using server and hosting platforms. This process proved to be sensitive and required additional configuration beyond the scope of the core assignment.
+
+As a result, some aspects of the project may extend beyond the minimum requirements. These additions were implemented intentionally to better understand full-stack deployment and to improve the overall structure of the application.
+
+The current version is fully functional as an MVP, with additional improvements and refinements planned for future iterations.
+
 ---
 
 ## Contact
