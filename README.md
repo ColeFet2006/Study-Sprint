@@ -124,9 +124,9 @@ The application is usable in its current state, with additional improvements pla
 
 This project was developed collaboratively by:
 
-* Cole Fetterman
-* Nelson
-* Zamman
+* Cole Fetterman - Full Stack Development (Frontend, Backend, Database Integration, and Core Application Logic)
+* Nelson Copete - Project Planning, Testing, and Feedback 
+* Zamman Qureshi - UI Ideas, Testing, and Feedback
 
 The project was built over several days of collaboration, including planning, development, and testing sessions conducted through Discord.
 
