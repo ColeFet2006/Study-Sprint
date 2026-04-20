@@ -96,11 +96,13 @@ The application is fully usable through GitHub Pages without requiring a backend
 
 This project was developed collaboratively by:
 
-* Cole Fetterman - Project Structure, Integration, and Deployment
-* Nelson Copete - Styling, Layout Design, and UI Enhancements
-* Zamman Qureshi - JavaScript Logic, Timer Functionality, and Data Handling
+- Cole Fetterman — Project Structure, Integration, and Deployment  
+- Nelson Copete — Styling, Layout Design, and UI Enhancements  
+- Zamman Qureshi — JavaScript Logic, Timer Functionality, and Data Handling  
 
-The project was built collaboratively with each member focusing on different components of the application.
+Development was conducted collaboratively through group sessions over Discord, where all team members worked together in real time on the project.
+
+While each member was assigned primary responsibilities, all components of the project were developed with shared input, discussion, and teamwork across the entire group.
 
 ---
 
