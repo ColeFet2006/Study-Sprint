@@ -158,3 +158,30 @@ button:hover {
   opacity: 0.93;
 }
 
+.finish-btn {
+  background: var(--gold);
+  color: #1a1a1a;
+}
+
+.clear-btn {
+  background: #a61e2a;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+label {
+  font-weight: bold;
+  color: var(--navy);
+}
+
