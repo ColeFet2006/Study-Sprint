@@ -146,3 +146,12 @@ This approach ensured the project remained functional, accessible, and aligned w
 ---
 
 ## 📝 Development Logs
+
+### Cole Fetterman
+- **v1.0 (Apr 17, 2026):** Created initial project structure and directory layout  
+- **v1.1 (Apr 18, 2026):** Built main HTML structure and integrated core sections  
+- **v1.2 (Apr 19, 2026):** Connected timer, notes form, graph, and history components  
+- **v1.3 (Apr 20, 2026):** Configured GitHub repository and deployed via GitHub Pages  
+- Assisted with debugging and final feature integration across all components  
+
+---
