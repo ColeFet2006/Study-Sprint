@@ -1,0 +1,1 @@
+Updated script.js and moved frontend files into client folder; integrated API calls for backend support
