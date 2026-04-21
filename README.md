@@ -170,4 +170,12 @@ https://github.com/ColeFettermanPSU/StudySprint_Release
 - **v1.3 (Apr 20, 2026):** Configured GitHub repository and deployed via GitHub Pages  
 - **v1.4 (Apr 20, 2026):** Restructured project into client/server folders  
 - **v1.5 (Apr 20, 2026):** Integrated Express backend and MongoDB database  
-- Assisted with debugging and full-stack integration across all components  
+- Assisted with debugging and full-stack integration across all components
+
+  ### Zamman Qureshi
+- **v1.0 (Apr 17, 2026):** Implemented base timer logic (countdown functionality)  
+- **v1.1 (Apr 18, 2026):** Added timer controls (start, pause, reset)  
+- **v1.2 (Apr 19, 2026):** Developed session handling and frontend logic  
+- **v1.3 (Apr 20, 2026):** Connected frontend to backend API  
+- **v1.4 (Apr 20, 2026):** Implemented MongoDB session storage and retrieval  
+- Assisted with debugging and ensuring proper data handling throughout the application 
