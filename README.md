@@ -54,6 +54,12 @@ The purpose of Study Sprint is to:
 
 ---
 
+## Video Overview 
+
+https://youtu.be/EjPaV-mmRBs
+
+---
+
 ## Features
 
 * Focus timer (start, pause, reset)
